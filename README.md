@@ -40,6 +40,9 @@ _Tailor your Resume as per Job Description to clear ATS systems using AI_
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu)
 ![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 ![NGINX](https://img.shields.io/badge/NGINX-111111?style=for-the-badge&logo=nginx&logoColor=009639)
+![Gemini](https://img.shields.io/badge/Gemini-111111?style=for-the-badge&logo=googlegemini&logoColor=8E75FF)
+
+
 
 - Modern hiring and ATS systems are broken, but applicants still have to optimize resumes with the right keywords and jargon just to get noticed.
 - After tailoring resumes for countless job applications myself, I created **Morpheus MD** to make the process faster and easier.
